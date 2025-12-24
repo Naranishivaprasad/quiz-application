@@ -1,0 +1,84 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "Q. Which of the following is not a CSS box model property?",
+      "choices": ["margin", "padding", "border-radius", "border-collapse"],
+      "answer": "border-collapse"
+    },
+    {
+      "id": 2,
+      "question": "Q. Which of the following is not a valid way to declare a function in JavaScript?",
+      "choices": [
+        "function myFunction() {}",
+        "let myFunction = function() {};",
+        "myFunction: function() {}",
+        "const myFunction = () => {};"
+      ],
+      "answer": "myFunction: function() {}"
+    },
+    {
+      "id": 3,
+      "question": "Q. Which of the following is not a JavaScript data type?",
+      "choices": ["string", "boolean", "object", "float"],
+      "answer": "float"
+    },
+    {
+      "id": 4,
+      "question": "Q. What is the purpose of the this keyword in JavaScript?",
+      "choices": [
+        "It refers to the current function.",
+        "It refers to the current object.",
+        "It refers to the parent object.",
+        "It is used for comments."
+      ],
+      "answer": "It refers to the current object."
+    },
+    {
+      "id": 5,
+      "question": "Q. Which method is used to convert JSON data into a JavaScript object?",
+      "choices": [
+        "JSON.parse()",
+        "JSON.stringify()",
+        "JSON.convert()",
+        "JSON.object()"
+      ],
+      "answer": "JSON.parse()"
+    },
+    {
+      "id": 6,
+      "question": "Q. Which array method creates a new array with elements that pass a condition?",
+      "choices": ["map()", "forEach()", "filter()", "reduce()"],
+      "answer": "filter()"
+    },
+    {
+      "id": 7,
+      "question": "Q. What does the setTimeout function do?",
+      "choices": [
+        "Runs code repeatedly",
+        "Runs code after a delay",
+        "Stops code execution",
+        "Clears a timer"
+      ],
+      "answer": "Runs code after a delay"
+    },
+    {
+      "id": 8,
+      "question": "Q. Which keyword is used to declare a constant in JavaScript?",
+      "choices": ["var", "let", "const", "static"],
+      "answer": "const"
+    },
+    {
+      "id": 9,
+      "question": "Q. Which HTML tag is used to include JavaScript?",
+      "choices": ["<js>", "<javascript>", "<script>", "<code>"],
+      "answer": "<script>"
+    },
+    {
+      "id": 10,
+      "question": "Q. What will typeof null return in JavaScript?",
+      "choices": ["null", "object", "undefined", "number"],
+      "answer": "object"
+    }
+  ]
+}
