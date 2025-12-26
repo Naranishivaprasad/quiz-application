@@ -78,6 +78,7 @@ const checkAnswer = () => {
   }
 };
 
+
 // ================= SHOW SCORE ================= 
 const showScore = () => {
   questionBox.textContent = "";
