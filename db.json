@@ -6,6 +6,7 @@
       "choices": ["margin", "padding", "border-radius", "border-collapse"],
       "answer": "border-collapse"
     },
+    
     {
       "id": 2,
       "question": "Q. Which of the following is not a valid way to declare a function in JavaScript?",
